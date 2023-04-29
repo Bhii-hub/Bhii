@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+    Mental Health
+</title>
+</head>
+<body>
+    <h1>Mental Health</h1>
+    <!--p tag, automatically aligns according to a paragraph even if we give extra spaces-->
+    <p>Mental health includes our emotional, psychological,               and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices.1 Mental health is important at every stage of life, from childhood and adolescence through adulthood.</p>
+    <!--pre tag, it takes up the same way we give without aligning-->
+    <!--<pre>pre tag example
+
+        Mental health includes our emotional,                       psychological, 
+        and social well-being. 
+        It affects how we think, feel, 
+        and act. It     also helps determine how we handle stress, relate to others, and make healthy choices.1 Mental health is important at every stage of life, from childhood and adolescence through adulthood.
+    </pre>-->
+    <!--doubt,, p and pre tag, font size is different??-->
+
+    <h2>Test yourself at which state you are</h2><!--It's not a form-->
+    <input type="checkbox" name="Happy"/>Happy<br>
+    <input type="checkbox" name="Sustainable"/>Sustainable<br>
+    <input type="checkbox" name="Disappointed"/>Disappointed<br>
+
+    <h2>Login</h2>
+    Username: <input type="email"/><br>
+    Password: <input type="password"/><br>
+    <button type="button">Login</button><br>
+
+    <h2>Submit your query</h2>
+    Name: <input type="text" name="Input" placeholder="Full name"/>
+    <br>
+    Age: <input type="number" name="Age" min="0" max="120"/>
+    <br/>
+    Gender: <input type="radio" name="Male"/>Male <input type="radio" name="Female"/> Female
+    <br>
+    What problem are you facing: <input type="text" placeholder="Start writing here"><br>
+    Date to consult: <input type="date" name="date"/><br>
+    Consulation time: <select name="Time">
+        <option value="10 AM - 1 AM">10 AM - 1 AM</option>
+        <option value="1 AM - 5 AM">1 AM - 5 AM</option>
+    </select>
+
+
+    
+    
+</body>
+</html>

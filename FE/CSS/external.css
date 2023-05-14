@@ -1,0 +1,56 @@
+p {background-color:salmon; color:blanchedalmond; font-size:20px;}/*element selector*/
+            /*.One {background-color:#01F6FD;}/*Class Selector*/
+            .One {background-color:burlywood;}
+           /* #Two {background-color: rgb(147,16,10);}/*ID Selector*/
+           #Two {background-color: pink;}
+            img { width:50%; height: 100px; margin-left: 500px;}
+           h1 {text-align:center;
+           border-style: solid; font-size:30px;
+         background-color: aquamarine; 
+      margin-left: 42%; margin-right: 42%; padding-left:9px; padding-right:7px;}
+           /*.all{background-color: bisque;}*/
+
+           body {background-image: url("../Image/Bg.jpg")}
+           .link {text-shadow:1px 0.8px black ;}
+           .link:hover{ background-color:blue; color: aliceblue; margin-right: 95%;}
+           /*doubt Entire line is blocked for hovering*/
+           /*doubt how to decrease line height between unordered list heading and list name*/
+
+           ul {background-color: orange; margin-right: 90%;}
+           ol {background-color: green;margin-right: 85%;}
+
+
+           p {text-indent: 120px; line-height: 1.5; letter-spacing: 3px; word-spacing: 2px;}
+           /*letter spacing is between letters like l e t t e r  word spacing is letter   letter  letter */
+   table,th,tr,td { border: 1px solid black; padding: 10px; border-collapse:collapse;}
+   tr { text-align: center;}
+   tr:nth-child(even)   {background-color: yellow;}
+   th {background-color: blue;}
+        /*border-top-style:dashed;
+        border-left-style:dotted;
+        border-right-style:double;
+        border-bottom-style:solid;*/ /*we can also write in single line
+        border-style: dashed dotted double solid; It takes up in top>right>bottom>left format
+        
+        If we give only two value, it will take first for top and bottom
+        second as left and right*/
+
+           /*to bypass folder have ../Image */
+           /*If the Image is small, it will multiply in x and y axis, to have onlt in x and y, and no repeat below is the syntax*/
+           /*background-repeat:repeat-x*/
+           /*background-repeat:repeat-y*/
+           /*background-repeat:no-repeat*/
+
+           /*background-attachment:fixed;*/      /*Image remains fixed while  scrolling*/
+           /*background-attachment:scroll;*/   /*Image goes off while scrolling*/
+
+           /*border-top-style:dotted;*/
+           /*border-left-style:dotted;*/
+           /*border-right-style:dotted;*/
+           /*border-bottom-style:dotted;*/
+
+        /*.head {margin-left:45%;
+        margin-right:50%;
+    text-align:center;}*/
+           /*border-radius:5px; gives you curve edge
+           border-width:5px 10px even here we can give top right bottom left rule*/

@@ -1,0 +1,92 @@
+.first_block
+{
+    background-size: cover;
+    background-image: url(./Image/polo.jpg) 
+}
+
+.first_block
+{
+height: 50rem;
+width:auto;
+}
+
+body img
+{
+    position: sticky;
+    top:0;
+    margin-left: 43rem;
+}
+
+#bgef 
+{
+background-color: lightslategray;
+padding: 0.9rem;
+}
+
+* a
+{
+ font-size: 1rem;
+ text-decoration: none;
+ margin: 0.5rem;
+ color: white;
+}
+
+* a:hover
+{
+background-color: grey;
+padding: 0.9rem;
+}
+
+.first
+{
+margin-left: 15.5rem;
+}
+
+.checkin
+{
+    padding: 1rem;
+}
+
+.fromname
+{
+    margin-left: 3rem;
+}
+
+.second_block
+{
+    background-size: cover;
+    background-image: url(./Image/ran.jpg)
+}
+.second_block
+{
+    width:auto;
+    height:50rem;
+}
+
+#Lux
+{
+    color: black;
+    font-size: 6rem;
+    margin: 50rem;
+}
+
+.third_block
+{
+    background-size: cover;
+    background-image: url(./Image/mustan.jpg)
+}
+.third_block
+{
+    width:auto;
+    height:50rem;
+}
+.fourth_block
+{
+    background-size: cover;
+    background-image: url(./Image/lance-anderson-rJQUf0B4eIk-unsplash.jpg)
+}
+.fourth_block
+{
+    width:auto;
+    height:50rem;
+}

@@ -1,0 +1,20 @@
+.first_line
+{
+    background-color: navy;
+    width:auto;
+    height: 250px;
+}
+
+.second_line
+{
+    background-color: white;
+    width:auto;
+    height: 250px;
+}
+
+.third_line
+{
+    background-color: red;
+    width:auto;
+    height: 250px;
+}

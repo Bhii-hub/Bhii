@@ -1,0 +1,26 @@
+#disp
+{
+    display: flex;
+    flex-direction: column;
+}
+.first_line
+{
+ 
+    background-color: red;
+    width:auto;
+    height: 470px;
+
+}
+.second_line
+{
+    background-color: blue;
+    width:auto;
+    height: 470px;
+}
+
+.third_line
+{
+    background-color: green;
+    width:auto;
+    height: 470px;
+}

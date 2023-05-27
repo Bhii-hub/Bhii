@@ -1,0 +1,19 @@
+.contain
+{
+    background-color: white;
+    width: auto;
+    height: 1500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#second
+{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    border-radius: 50rem;
+
+}

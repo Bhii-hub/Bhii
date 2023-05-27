@@ -1,0 +1,26 @@
+#disp
+{
+    display: flex;
+}
+
+.first_line
+{
+ 
+    background-color: #009A49;
+    width: 1000px;
+    height: 1500px;
+
+}
+.second_line
+{
+    background-color: white;
+    width: 1000px;
+    height: 1500px;
+}
+
+.third_line
+{
+    background-color: #FF7901;
+    width: 1000px;
+    height: 1500px;
+}

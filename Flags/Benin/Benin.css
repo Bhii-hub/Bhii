@@ -1,0 +1,23 @@
+.whole
+{
+    background-color: green;
+    width: auto;
+    height: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.whole >div:first-child
+{
+    background-color: yellow;
+    width: 2000px;
+    height: 800px;
+}
+
+.whole >div +div
+{
+    background-color: red;
+    width: 2000px;
+    height: 800px;
+}

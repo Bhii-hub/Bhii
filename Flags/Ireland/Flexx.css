@@ -1,0 +1,30 @@
+.first_line
+{
+ 
+    background-color: #009A49;
+    width: 200px;
+    height: 400px;
+
+}
+.second_line
+{
+    background-color: white;
+    width: 200px;
+    height: 400px;
+}
+
+.third_line
+{
+    background-color: #FF7901;
+    width: 200px;
+    height: 400px;
+}
+
+#disp
+{
+    display: flex;
+    justify-content: center; /*Horizontal*/
+    align-items: end; /*Vertical*/
+    height: 1000px;
+}
+

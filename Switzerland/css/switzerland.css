@@ -1,0 +1,30 @@
+.flex
+{
+    background-color: red;
+    width: auto;
+    height: 1500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.second_container
+{
+    background-color: white;
+    width: 200px;
+    height: 600px;
+}
+#third
+{
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    margin-top: 20px;
+}
+.left
+{
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    margin-top: 20px;
+}

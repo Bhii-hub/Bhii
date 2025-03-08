@@ -1,0 +1,12 @@
+h1{
+    background-color: aqua;
+}
+
+h2,h3{
+    background-color: greenyellow;
+}
+
+#Sub{
+    margin-left: 50%;
+    background-color: bisque;
+}
